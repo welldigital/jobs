@@ -1,9 +1,9 @@
-## Senior Software Engineer at Well Digital
+# Senior Software Engineer at [Well Digital](https://digital.well.co.uk)
 
 
 **Salary:** competitive 
 
-Do you want to work on stuff that matters? 
+**Do you want to work on stuff that matters?** 
 
 Well Pharmacy is the the UK’s largest independent pharmacy with 70 years of history serving local communities. 
 
@@ -20,7 +20,7 @@ At Well Digital:
 
 We’re right at the start of our digital journey. As our Senior Software Engineer, you’ll be part of the the founding team of Well Digital and will play a big part in shaping our principles, priorities and technology approach.  
 
-### What you’ll do: 
+## What you’ll do: 
 
 - build and operate digital services to meet customer needs, taking responsibility for the quality of code you produce
 
@@ -35,7 +35,7 @@ We’re right at the start of our digital journey. As our Senior Software Engine
 - help to build the Well Digital team, supporting recruitment, identifying good practices to adopt and sharing experiences, eg through blog posts, tech talks at conferences etc. 
 - help us make a positive contribution to the Manchester technology community 
 
-### What you’ll bring: 
+## What you’ll bring: 
 
 - hands-on experience in back-end development, with detailed knowledge of at least one of Javascript, Python, Java, Ruby, Go or Scala
 
@@ -50,7 +50,7 @@ We’re right at the start of our digital journey. As our Senior Software Engine
 - ability to quickly research and learn new programming tools and techniques 
 - understanding of web security 
 
-### In return we offer:
+## In return we offer:
 
 - a competitive salary 
 
