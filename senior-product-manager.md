@@ -1,4 +1,4 @@
-# Senior Digital Designer at [Well Digital](https://digital.well.co.uk)
+# Senior Product Manager at [Well Digital](https://digital.well.co.uk)
 
 
 **Salary:** competitive 
