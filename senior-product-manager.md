@@ -1,7 +1,8 @@
 # Senior Product Manager at [Well Digital](https://digital.well.co.uk)
 
-
 **Salary:** competitive 
+
+**Location:** Manchester city centre
 
 **Do you want to work on stuff that matters?** 
 

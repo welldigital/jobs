@@ -6,6 +6,8 @@ We're looking for people to help us build the digital future of pharmacy.
 
 We're user-focused, agile and open because we believe that's the best way to to make brilliant digital services for our customers. 
 
+We're based in Manchester at Well HQ on the Bridgewater Canal. 
+
 Right now we're looking for:
 
 - [Senior Product Manager](senior-product-manager.md)
