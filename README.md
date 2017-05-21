@@ -12,7 +12,7 @@ Right now we're looking for:
 
 - [Senior Product Manager](senior-product-manager.md)
 - [Senior Digital Designer](senior-digital-designer.md)
-- [Senior Software Engineer](senior-software-engineer)
+- [Senior Software Engineer](senior-software-engineer.md)
 
 None of these roles sound quite right for you? [Get in touch](mailto:digital@well.co.uk).
 
