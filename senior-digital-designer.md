@@ -26,7 +26,7 @@ We’re right at the start of our digital journey. As our Senior Digital Designe
 - design end-to-end, cross-platform services (web, Android, iOS, emails) that delight our customers 
 - work in a multi-disciplinary agile team alongside software engineers, product managers and user researchers
 - define our approach to design and advocate for design across the business 
-  create our unified design system
+- create our unified design system
 - help to build the Well Digital team, supporting recruitment, identifying good practices to adopt and sharing experiences, e.g. through blog posts, tech talks at conferences etc. 
 - help us make a positive contribution to the Manchester technology community 
 
