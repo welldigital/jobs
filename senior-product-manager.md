@@ -41,14 +41,6 @@ We’re right at the start of our digital journey. As our Senior Product Manager
 - able to build agile, team-oriented and collaborative environments
 - able to explain ideas in a way that other people understand
 
-## In return we offer:
-
-- a competitive salary 
-- company car or car allowance
-- private healthcare cover
-- workplace pension scheme
-- childcare vouchers, travel loans and much more.
-
 ## Apply
 
 Just send your CV to digital@well.co.uk and we'll be in touch. 
