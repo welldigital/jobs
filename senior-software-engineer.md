@@ -51,15 +51,6 @@ We’re right at the start of our digital journey. As our Senior Software Engine
 - ability to quickly research and learn new programming tools and techniques 
 - understanding of web security 
 
-## In return we offer:
-
-- a competitive salary 
-
-- company car or car allowance
-- private healthcare cover
-- workplace pension scheme
-- childcare vouchers, travel loans and much more.
-
 ## Apply
 
 Just send your CV to digital@well.co.uk and we'll be in touch. 
