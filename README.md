@@ -10,12 +10,12 @@ We're based in Manchester at Well HQ on the Bridgewater Canal.
 
 Right now we're on the look out for people to help us with:
 
-Product
-Delivery
-Software Engineering
-Digital Marketing
-Design
-User Research
+- Product
+- Delivery
+- Software Engineering
+- Digital Marketing
+- Design
+- User Research
 
 Fancy working with us? [Get in touch](mailto:digital@well.co.uk).
 
