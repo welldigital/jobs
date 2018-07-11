@@ -2,7 +2,7 @@
 
 **Salary:** £80k+  
 
-**Location:** Manchester city centre
+**Location:** Central Manchester HQ and Stoke-on-Trent distribution centre
 
 **Do you want to work on stuff that matters?** 
 
