@@ -25,7 +25,7 @@ Right now we're on the look out for:
 **[Senior Android Engineer](https://github.com/welldigital/jobs/blob/master/senior-android-engineer.md)**
 
 
-Fancy working with us? [Get in touch](mailto:digital@well.co.uk).
+Fancy working with us? [Get in touch](mailto:jobs@digital.well.co.uk).
 
 
 
