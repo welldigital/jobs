@@ -1,4 +1,4 @@
-# Senior Web Engineer at Well Digital
+# Senior Web Engineer at [Well Digital](https://blog.well.co.uk/well-digital/)
 
 **Salary:** £50k+  
 
@@ -6,10 +6,11 @@
 
 **Do you want to work on stuff that matters?** 
 
-Well Pharmacy is the the UK’s largest independent pharmacy with over 760 stores across the UK. Our mission as a company is to build the best prescription experience in the UK. 
-Well Digital is a startup team creating new world-class digital products and services. We have a big ambition: to bring pharmacy into the digital age. 
+[Well Pharmacy](https://www.well.co.uk) is the the UK’s largest independent pharmacy with over 760 stores across the UK. Our mission as a company is to build the best prescription experience in the UK. 
 
-Since we started Well Digital just over a year ago, we’ve launched the UK’s first Viagra subscription service and built a new digital prescription delivery service. 
+[Well Digital](https://blog.well.co.uk/well-digital/) is a startup team creating new world-class digital products and services. We have a big ambition: to bring pharmacy into the digital age. 
+
+Since we started Well Digital [just over a year ago](https://blog.well.co.uk/one-year-of-well-digital-1411482bda85/), we’ve launched the UK’s first Viagra subscription service and built a new [digital NHS prescription delivery service](https://blog.well.co.uk/were-building-a-better-pharmacy-50bc2e04cd97/). 
 
 Our customers already love our products: metrics are strong, and most of our initial growth has been through word of mouth.
 
@@ -64,4 +65,4 @@ Our iPhone app is native Swift talking to a serverless backend written in Go. We
 
 ## Apply
 
-Just send your CV to jobs@digital.well.co.uk and we'll be in touch.
+Just send your CV to [jobs@digital.well.co.uk](mailto:jobs@digital.well.co.uk) and we'll be in touch.
