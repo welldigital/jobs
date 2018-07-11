@@ -54,6 +54,7 @@ You will work closely with our distribution centre, wholesale and buying teams.
 - health assessments
 - childcare vouchers
 - 25 days annual leave
+- car or car allowance 
 
 **Set up to succeed:**
 - board-level support
