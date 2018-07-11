@@ -1,5 +1,7 @@
 # Work with us
 
+![Show and Tell at Well Digital](https://blog.well.co.uk/content/images/2018/07/DRAMQIyXUAAcZcI.jpg)
+
 We're looking for people to help us build the digital future of pharmacy. 
 
 [Well Digital](https://digital.well.co.uk) is a brand new startup team inside Well, the UK's largest independent pharmacy. 
