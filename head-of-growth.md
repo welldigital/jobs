@@ -54,7 +54,7 @@ You’ll be part of the leadership team building and running our digital busines
 - health assessments
 - childcare vouchers
 - 25 days annual leave
-- company car or allowance
+- company car allowance
 
 **Set up to succeed:**
 - board-level support
