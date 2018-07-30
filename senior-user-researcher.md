@@ -28,6 +28,7 @@ You'll work as part of a multidisciplinary team of engineers, designers and prod
 define research questions 
 - communicate research findings and act on them
 - promote, train and coach to put user research at the heart of our design process
+- help teams empathise and make decisions by presenting the whole picture
 
 ## You should apply if 
 
