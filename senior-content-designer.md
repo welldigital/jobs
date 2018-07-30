@@ -25,12 +25,13 @@ You'll work as part of a multidisciplinary team of engineers, designers and prod
 - define and apply a consistent way of writing and speaking across the business
 - monitor and improve content based on user feedback, research and data
 - work with our pharmacists to make sure content is clinically safe  
-- ensure all content assets are user-focused, accurate, optimised appropriately (e.g. for search), and meet relevant design, style and brand guidelines
+- ensure all content assets are user-focused, accurate, optimised appropriately (e.g. for search), and meet and help shape relevant design, style and brand guidelines
 - build processes for reviewing, testing, publishing and improving content 
 - promote, train and coach to put great content at the heart of our design process
 
 ## You should apply if 
 
+- you intrinsically work in a user centered way to meet user needs as part of your content design
 - you like turning complex concepts into simple, clear content
 - you have a proven track record creating content for user interfaces on web and mobile digital products
 - you work collaboratively in fast-paced agile teams
