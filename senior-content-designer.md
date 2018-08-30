@@ -1,4 +1,4 @@
-# Senior Content Designer at [Well Digital](https://blog.well.co.uk/well-digital/)
+# Senior Content Designer (UX Writer) at [Well Digital](https://blog.well.co.uk/well-digital/)
 
 **Salary:** £40k+
 
